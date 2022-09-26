@@ -1,0 +1,26 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "so",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notBers/vercelschoolui.git"
+  },
+  "keywords": [
+    "vercel"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notBers/vercelschoolui/issues"
+  },
+  "homepage": "https://github.com/notBers/vercelschoolui#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.10"
+  }
+}
